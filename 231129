@@ -15,3 +15,7 @@ console.log(number.toFixed(4));
 
 --
 
+let string = 'abcdefg';
+
+string = string.toUpperCase();
+console.log(string);
